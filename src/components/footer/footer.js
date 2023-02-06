@@ -11,10 +11,10 @@ export const Footer = () => {
         <footer className="footer">
             <Container>
                 <Row className="align-items-center">
-                    <Col size={12} sm={6} md={3}>
+                    <Col size={12} sm={6}>
                         <img src={logo} alt="Logo" />
                     </Col>
-                    <Col size={12} sm={6} md={3} className="text-center text-sm-end">
+                    <Col size={12} sm={6} className="text-center text-sm-end">
                         <div className="social-icon">
                             <a href="https://github.com/t01292243272"><img src={navIcon1} alt="Icon" /></a>
                             <a href="https://www.facebook.com/profile.php?id=100028399987811"><img src={navIcon2} alt="Icon" /></a>
