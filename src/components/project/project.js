@@ -15,6 +15,7 @@ export const Projects = () => {
 
     const projects = [
         {
+            link: 'https://cineflex-1102.netlify.app',
             title: "Film with API",
             description: "Design & Development",
             imgUrl: film,
@@ -26,12 +27,13 @@ export const Projects = () => {
             imgUrl: coffeeShop,
         },
         {
-            link: '',
+            link: 'https://taste-retaurant-1102.netlify.app',
             title: "Restaurant Menu",
             description: "Design & Development",
             imgUrl: restaurantMenu,
         },
         {
+            link: 'https://portfolio-1102.netlify.app',
             title: "Portfolio",
             description: "Design & Development",
             imgUrl: portfolio,
