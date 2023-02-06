@@ -39,6 +39,7 @@ export const Projects = () => {
             imgUrl: portfolio,
         },
         {
+            link: 'https://todo-list-1102.netlify.app',
             title: "Todo List",
             description: "Design & Development",
             imgUrl: todoList,
